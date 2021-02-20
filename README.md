@@ -1,5 +1,5 @@
-Data Set - https://grouplens.org/datasets/movielens/ 
-Reference - https://surprise.readthedocs.io/en/stable/index.html#
+- Data Set - https://grouplens.org/datasets/movielens/                                               
+- Reference - https://surprise.readthedocs.io/en/stable/index.html#
 
 Contents in the Notebooks  
 
