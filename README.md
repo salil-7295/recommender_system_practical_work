@@ -12,4 +12,4 @@ Contents in the Notebooks
 5) Predictions and User Recommendations 
 
 
-
+- References : https://github.com/NicolasHug/Surprise
